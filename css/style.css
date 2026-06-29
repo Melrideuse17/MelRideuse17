@@ -1,4 +1,9 @@
+html{
+    scroll-behavior:smooth;
+}
+
 body{
+
     background:
         radial-gradient(circle at 20% 20%, rgba(198,108,255,0.25), transparent 25%),
         radial-gradient(circle at 80% 10%, rgba(255,0,200,0.18), transparent 25%),
